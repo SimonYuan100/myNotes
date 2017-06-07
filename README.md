@@ -1,2 +1,2 @@
 # myNotes
-my notes in front-End
+my notes about front-End
