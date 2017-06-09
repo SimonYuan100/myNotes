@@ -10,3 +10,9 @@ console.log(foo); // function foo () {}
 function foo () {}
 var foo = 5;
 
+/*块作用域和闭包结合*/
+
+for(let i=0;i<5;i++){
+	setTimeout(function(){
+		console.log(i);
+	},200)}
