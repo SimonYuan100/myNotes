@@ -36,8 +36,8 @@ bar() // 10
 var a = 10
 function bar () {
   var a = 5;
-  function foo () {
+  !function foo () {
     console.log(a)
-  }
+  }()
 }
 bar() // 5
