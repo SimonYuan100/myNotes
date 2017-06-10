@@ -15,4 +15,17 @@ var foo = 5;
 for(let i=0;i<5;i++){
 	setTimeout(function(){
 		console.log(i);
-	},200)}
+	},200)
+}
+
+/*词法作用域*/
+
+var a = 10
+function foo () {
+	console.log(a)
+}
+function bar () {
+	var a = 5;
+	foo()
+}
+bar() // 10
