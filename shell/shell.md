@@ -11,3 +11,5 @@
 打开文件夹
 # rm fileName
 移除文件
+# rm -rf fileFolderName
+移除文件夹
