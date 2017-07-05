@@ -13,3 +13,5 @@
 移除文件
 # rm -rf fileFolderName
 移除文件夹
+# ls
+查看目录文件
