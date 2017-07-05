@@ -10,3 +10,5 @@
 
 # git checkout file
 
+# git config --global http.proxy http://xxx.com:8080
+# git config --global https.proxy https://xxx.com:8080
