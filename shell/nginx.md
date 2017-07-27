@@ -1,4 +1,4 @@
-# ngnix 命令
+# nginx 命令
 
 ### sudo ./nginx -s reload
 重新加载配置文件
