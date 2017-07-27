@@ -1,7 +1,10 @@
-# sudo ./nginx -s reload
+# ngnix 命令
 
-# chmod 777 xx.sh
+### sudo ./nginx -s reload
+重新加载配置文件
 
+### chmod 777 xx.sh
+配置最高权限
 
-# ps -ef|grep java
+### ps -ef|grep java
 查看进程
