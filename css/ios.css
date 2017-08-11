@@ -1,0 +1,2 @@
+/*ios滑动不顺畅问题*/
+.container{-webkit-overflow-scrolling: touch;}
