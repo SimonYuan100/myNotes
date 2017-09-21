@@ -8,3 +8,6 @@
 
 ### ps -ef|grep java
 查看进程
+
+### tailf 文件地址
+浏览某个文件
